@@ -1,0 +1,26 @@
+<annotation>
+	<folder>001324_01_01</folder>
+	<filename>094_Erosion_c001324_01_01.png</filename>
+	<path>C:\Users\Eli Flores\Desktop\Tesis\Code\KeySlices\Key_slices\Kidney key slices\DONE\001324_01_01\094_Erosion_c001324_01_01.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lesion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>329</ymin>
+			<xmax>329</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>
