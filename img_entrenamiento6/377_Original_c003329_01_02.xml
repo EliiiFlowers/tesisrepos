@@ -1,0 +1,26 @@
+<annotation>
+	<folder>003329_01_02</folder>
+	<filename>377_Original_c003329_01_02.png</filename>
+	<path>C:\Users\Eli Flores\Desktop\Tesis\Code\KeySlices\Key_slices\Kidney key slices\DONE\003329_01_02\377_Original_c003329_01_02.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lesion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>338</xmin>
+			<ymin>226</ymin>
+			<xmax>367</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>
